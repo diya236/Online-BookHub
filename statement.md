@@ -1,4 +1,3 @@
-P# Project Statement
 
 ## Problem Statement
 In many small book stores and student book shops, the process of buying books and checking available stock is still done manually. This makes the process slow, time-consuming, and sometimes inaccurate. Customers also find it difficult to know if a book is available or not. There is a need for a simple system that can manage books, search books, apply discounts, and handle purchase details in a fast and organized way.
@@ -19,3 +18,4 @@ This project is designed to help users manage book records and perform basic ope
 - Buy books and calculate total price
 - Apply discounts on selected books
 - Organized structure using different Java classes and modules
+
